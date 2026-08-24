@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+data/*.sqlite3
+data/*.sqlite3-*
+**/.catalog-export-lock.sqlite3
+**/.*.export-lock.sqlite3
